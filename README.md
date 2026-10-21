@@ -1,30 +1,19 @@
-# Japanesque — macOS Terminal profile
+# Terminal color schemes
 
-My Terminal.app color scheme: **Japanesque** (originally from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)), exported with my settings (90×50 window).
+A collection of color schemes for macOS Terminal.app.
 
-## Install
+## Schemes
 
-1. Download `Japanesque.terminal`.
-2. Double-click it (or Terminal → Settings → Profiles → ⋯ → Import).
-3. Select **Japanesque** and click **Default**.
-
-## Palette
-
-| Role | Normal | Bright |
+| Scheme | Background | Notes |
 |---|---|---|
-| Black | `#343935` | `#595b59` |
-| Red | `#cf3f61` | `#d18fa6` |
-| Green | `#7bb75b` | `#767f2c` |
-| Yellow | `#e9b32a` | `#78592f` |
-| Blue | `#4c9ad4` | `#135979` |
-| Magenta | `#a57fc4` | `#604291` |
-| Cyan | `#389aad` | `#76bbca` |
-| White | `#fafaf6` | `#b2b5ae` |
+| [Japanesque](japanesque/) | `#1e1e1e` | Dark, warm palette with muted colors. My current default. |
 
-| Element | Color |
-|---|---|
-| Background | `#1e1e1e` |
-| Text | `#f7f6ec` |
-| Bold text | `#fffffa` |
-| Cursor | `#edcf4f` |
-| Selection | `#175877` |
+## Installing a scheme
+
+1. Open the scheme's folder and download its `.terminal` file.
+2. Double-click it (or go to Terminal → Settings → Profiles → ⋯ → Import).
+3. Select the profile and click **Default**.
+
+## Adding a scheme
+
+Export a profile from Terminal → Settings → Profiles → ⋯ → Export, put it in its own folder with a README, and add a row to the table above.
