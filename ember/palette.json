@@ -1,0 +1,11 @@
+{
+  "name": "Ember",
+  "description": "Warm charcoal with copper, amber, and clay accents.",
+  "background": "#1c1614",
+  "text": "#eadbc8",
+  "bold": "#fff3e3",
+  "cursor": "#ff8a3d",
+  "selection": "#4a3328",
+  "normal": ["#2a211d", "#e5534b", "#a3b65a", "#f0a541", "#6f9fd1", "#c97ba6", "#73b3a7", "#d8c8b4"],
+  "bright": ["#7d6c62", "#f3857e", "#c4d483", "#f7c77a", "#9cc0e4", "#dfa3c4", "#9fd0c6", "#fff3e3"]
+}

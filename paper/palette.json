@@ -1,0 +1,11 @@
+{
+  "name": "Paper",
+  "description": "Light theme: warm off-white paper with ink-like colors.",
+  "background": "#f6f2e9",
+  "text": "#3a3530",
+  "bold": "#1e1a16",
+  "cursor": "#c2410c",
+  "selection": "#e2d6bd",
+  "normal": ["#3a3530", "#b42318", "#356f1a", "#8a5d00", "#1f5fa8", "#8b3a8f", "#116f6f", "#d9d2c4"],
+  "bright": ["#6b625a", "#c0352a", "#3f7a1f", "#8f6100", "#2a68b0", "#96459a", "#177777", "#ffffff"]
+}

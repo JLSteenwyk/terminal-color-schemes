@@ -2,6 +2,8 @@
 
 My Terminal.app color scheme: **Japanesque** (originally from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)), exported with my settings (90×50 window).
 
+![Japanesque preview](preview.svg)
+
 ## Install
 
 1. Download [`Japanesque.terminal`](Japanesque.terminal).

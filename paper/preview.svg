@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="514" viewBox="0 0 720 514" role="img" aria-label="Paper terminal color scheme preview">
+<rect width="720" height="514" rx="10" fill="#f6f2e9"/>
+<rect x="0.5" y="0.5" width="719" height="513" rx="10" fill="none" stroke="#000" stroke-opacity="0.25"/>
+<path d="M10 0H710A10 10 0 0 1 720 10V32H0V10A10 10 0 0 1 10 0Z" fill="#000" fill-opacity="0.18"/>
+<circle cx="20" cy="16.0" r="6" fill="#ff5f57"/>
+<circle cx="40" cy="16.0" r="6" fill="#febc2e"/>
+<circle cx="60" cy="16.0" r="6" fill="#28c840"/>
+<text x="360.0" y="20.0" text-anchor="middle" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="12" fill="#3a3530" fill-opacity="0.75">Paper — zsh — 90×50</text>
+<g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve">
+<text x="20" y="66" style="white-space:pre"><tspan fill="#1f5fa8" font-weight="bold">~/projects/demo</tspan><tspan fill="#8b3a8f"> (main)</tspan><tspan fill="#3a3530"> $ </tspan><tspan fill="#3a3530">ls</tspan></text>
+<text x="20" y="86" style="white-space:pre"><tspan fill="#3a3530">README.md  </tspan><tspan fill="#1f5fa8" font-weight="bold">data/</tspan><tspan fill="#3a3530">  </tspan><tspan fill="#1f5fa8" font-weight="bold">scripts/</tspan><tspan fill="#3a3530">  results.csv  </tspan><tspan fill="#356f1a" font-weight="bold">run.sh</tspan><tspan fill="#3a3530">*</tspan></text>
+<text x="20" y="106" style="white-space:pre"><tspan fill="#1f5fa8" font-weight="bold">~/projects/demo</tspan><tspan fill="#8b3a8f"> (main)</tspan><tspan fill="#3a3530"> $ </tspan><tspan fill="#3a3530">git status -s</tspan></text>
+<text x="20" y="126" style="white-space:pre"><tspan fill="#b42318"> M </tspan><tspan fill="#3a3530">src/model.py</tspan></text>
+<text x="20" y="146" style="white-space:pre"><tspan fill="#356f1a">A  </tspan><tspan fill="#3a3530">src/plot.py</tspan></text>
+<text x="20" y="166" style="white-space:pre"><tspan fill="#b42318">?? </tspan><tspan fill="#3a3530">notes.txt</tspan></text>
+<text x="20" y="186" style="white-space:pre"><tspan fill="#1f5fa8" font-weight="bold">~/projects/demo</tspan><tspan fill="#8b3a8f"> (main)</tspan><tspan fill="#3a3530"> $ </tspan><tspan fill="#3a3530">git log --oneline -2</tspan></text>
+<rect x="18" y="192" width="339.4" height="18" fill="#e2d6bd"/>
+<text x="20" y="206" style="white-space:pre"><tspan fill="#8a5d00">3f9c2e1 </tspan><tspan fill="#8a5d00">(</tspan><tspan fill="#116f6f" font-weight="bold">HEAD -&gt; </tspan><tspan fill="#356f1a" font-weight="bold">main</tspan><tspan fill="#8a5d00">)</tspan><tspan fill="#3a3530"> Add plotting helpers</tspan></text>
+<text x="20" y="226" style="white-space:pre"><tspan fill="#8a5d00">a71d04b </tspan><tspan fill="#3a3530">Tune model defaults</tspan></text>
+<text x="20" y="246" style="white-space:pre"><tspan fill="#1f5fa8" font-weight="bold">~/projects/demo</tspan><tspan fill="#8b3a8f"> (main)</tspan><tspan fill="#3a3530"> $ </tspan><tspan fill="#3a3530">./run.sh --verbose</tspan></text>
+<text x="20" y="266" style="white-space:pre"><tspan fill="#116f6f">[info] </tspan><tspan fill="#3a3530"> loaded 1,204 records</tspan></text>
+<text x="20" y="286" style="white-space:pre"><tspan fill="#8a5d00">[warn] </tspan><tspan fill="#3a3530"> 3 rows missing values</tspan></text>
+<text x="20" y="306" style="white-space:pre"><tspan fill="#b42318" font-weight="bold">[error]</tspan><tspan fill="#3a3530"> could not reach server, retrying</tspan></text>
+<text x="20" y="326" style="white-space:pre"><tspan fill="#6b625a">[debug]</tspan><tspan fill="#6b625a"> cache hit ratio 0.93</tspan></text>
+<text x="20" y="346" style="white-space:pre"><tspan fill="#356f1a" font-weight="bold">✔ </tspan><tspan fill="#1e1a16" font-weight="bold">done in 2.4s</tspan><tspan fill="#3a3530">  →  </tspan><tspan fill="#8b3a8f">results.csv</tspan></text>
+<text x="20" y="366" style="white-space:pre"><tspan fill="#1f5fa8" font-weight="bold">~/projects/demo</tspan><tspan fill="#8b3a8f"> (main)</tspan><tspan fill="#3a3530"> $ </tspan><tspan fill="#c2410c">█</tspan></text>
+</g>
+<rect x="28.0" y="390" width="76" height="30" rx="5" fill="#3a3530" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="66.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#3a3530</text>
+<rect x="112.0" y="390" width="76" height="30" rx="5" fill="#b42318" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="150.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#b42318</text>
+<rect x="196.0" y="390" width="76" height="30" rx="5" fill="#356f1a" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="234.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#356f1a</text>
+<rect x="280.0" y="390" width="76" height="30" rx="5" fill="#8a5d00" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="318.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#8a5d00</text>
+<rect x="364.0" y="390" width="76" height="30" rx="5" fill="#1f5fa8" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="402.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#1f5fa8</text>
+<rect x="448.0" y="390" width="76" height="30" rx="5" fill="#8b3a8f" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="486.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#8b3a8f</text>
+<rect x="532.0" y="390" width="76" height="30" rx="5" fill="#116f6f" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="570.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#116f6f</text>
+<rect x="616.0" y="390" width="76" height="30" rx="5" fill="#d9d2c4" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="654.0" y="434" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#d9d2c4</text>
+<rect x="28.0" y="442" width="76" height="30" rx="5" fill="#6b625a" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="66.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#6b625a</text>
+<rect x="112.0" y="442" width="76" height="30" rx="5" fill="#c0352a" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="150.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#c0352a</text>
+<rect x="196.0" y="442" width="76" height="30" rx="5" fill="#3f7a1f" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="234.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#3f7a1f</text>
+<rect x="280.0" y="442" width="76" height="30" rx="5" fill="#8f6100" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="318.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#8f6100</text>
+<rect x="364.0" y="442" width="76" height="30" rx="5" fill="#2a68b0" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="402.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#2a68b0</text>
+<rect x="448.0" y="442" width="76" height="30" rx="5" fill="#96459a" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="486.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#96459a</text>
+<rect x="532.0" y="442" width="76" height="30" rx="5" fill="#177777" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="570.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#177777</text>
+<rect x="616.0" y="442" width="76" height="30" rx="5" fill="#ffffff" stroke="#3a3530" stroke-opacity="0.2"/>
+<text x="654.0" y="486" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#3a3530" fill-opacity="0.7">#ffffff</text>
+</svg>

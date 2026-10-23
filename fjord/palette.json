@@ -1,0 +1,11 @@
+{
+  "name": "Fjord",
+  "description": "Cool blue-slate with soft, low-glare accents.",
+  "background": "#1b2230",
+  "text": "#d5dbe5",
+  "bold": "#eef2f8",
+  "cursor": "#88c0d0",
+  "selection": "#34405a",
+  "normal": ["#252e3f", "#d97a7a", "#9ccb8a", "#e3c88a", "#7aa2d6", "#b39ad6", "#78c2cf", "#c3cad6"],
+  "bright": ["#64708a", "#e8a1a1", "#bde0ae", "#efdcae", "#a2c0e6", "#cbb8e6", "#a2d9e2", "#eef2f8"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tahoe",
+  "description": "Deep lake teal with granite grays and clear-water cyans.",
+  "background": "#0f1c24",
+  "text": "#d8e6ea",
+  "bold": "#f2fafc",
+  "cursor": "#4fd1c5",
+  "selection": "#22495a",
+  "normal": ["#1b2b33", "#e06c75", "#6cc8a0", "#e5c07b", "#5aa9e6", "#b48ead", "#4fd1c5", "#c5d3d8"],
+  "bright": ["#5b7480", "#f0939a", "#9be0bf", "#f2d9a6", "#8cc8f2", "#d0afc9", "#8ee8df", "#f2fafc"]
+}
