@@ -1,0 +1,11 @@
+{
+  "name": "Glacier",
+  "description": "Light theme: cool blue-white ice with deep, crisp colors.",
+  "background": "#eef3f7",
+  "text": "#26323d",
+  "bold": "#111a22",
+  "cursor": "#0b6bcb",
+  "selection": "#cfdeea",
+  "normal": ["#26323d", "#b3261e", "#2e6b2e", "#7d5a00", "#1458a8", "#7a3b9a", "#0f6a7a", "#cbd5de"],
+  "bright": ["#5e6b78", "#c23a31", "#38773a", "#8a6500", "#2264b5", "#8648a6", "#187585", "#ffffff"]
+}

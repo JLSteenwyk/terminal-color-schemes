@@ -1,0 +1,11 @@
+{
+  "name": "Arcade",
+  "description": "High-energy synthwave neon on near-black.",
+  "background": "#0d0b14",
+  "text": "#e8e6f5",
+  "bold": "#ffffff",
+  "cursor": "#ff3ea5",
+  "selection": "#33284d",
+  "normal": ["#1c1828", "#ff4f6d", "#3dff9a", "#ffd23f", "#4fa3ff", "#ff3ea5", "#2ee6e6", "#d4d0e6"],
+  "bright": ["#6f6890", "#ff8099", "#86ffc0", "#ffe27a", "#8cc4ff", "#ff7cc4", "#7af2f2", "#ffffff"]
+}

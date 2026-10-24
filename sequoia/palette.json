@@ -1,0 +1,11 @@
+{
+  "name": "Sequoia",
+  "description": "Dark forest green with redwood bark, moss, and morning-fog accents.",
+  "background": "#141c17",
+  "text": "#dde5d6",
+  "bold": "#f4f8ef",
+  "cursor": "#c9894f",
+  "selection": "#2f4234",
+  "normal": ["#1f2a22", "#d0644f", "#8fbf6a", "#d9b25f", "#6fa3b8", "#b38aa8", "#76b8a0", "#c8d0bf"],
+  "bright": ["#617260", "#e48a76", "#b2d690", "#ead08a", "#97c1d2", "#cdaac4", "#9dd2bd", "#f4f8ef"]
+}

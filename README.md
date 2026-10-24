@@ -11,6 +11,10 @@ A collection of color schemes for macOS Terminal.app.
 | [Ember](ember/) | `#1c1614` | Dark. Warm charcoal with copper, amber, and clay accents. |
 | [Fjord](fjord/) | `#1b2230` | Dark. Cool blue-slate with soft, low-glare accents. |
 | [Paper](paper/) | `#f6f2e9` | Light. Warm off-white paper with ink-like colors. |
+| [Sequoia](sequoia/) | `#141c17` | Dark. Forest green with redwood bark, moss, and morning-fog accents. |
+| [Dusk](dusk/) | `#1a1726` | Dark. Twilight indigo with sunset rose, peach, and lavender. |
+| [Glacier](glacier/) | `#eef3f7` | Light. Cool blue-white ice with deep, crisp colors. |
+| [Arcade](arcade/) | `#0d0b14` | Dark. High-energy synthwave neon on near-black. |
 
 ## Previews
 
@@ -35,6 +39,22 @@ Each preview is drawn from the colors stored in the scheme's `.terminal` file, s
 ### [Paper](paper/)
 
 ![Paper preview](paper/preview.svg)
+
+### [Sequoia](sequoia/)
+
+![Sequoia preview](sequoia/preview.svg)
+
+### [Dusk](dusk/)
+
+![Dusk preview](dusk/preview.svg)
+
+### [Glacier](glacier/)
+
+![Glacier preview](glacier/preview.svg)
+
+### [Arcade](arcade/)
+
+![Arcade preview](arcade/preview.svg)
 
 ## Installing a scheme
 

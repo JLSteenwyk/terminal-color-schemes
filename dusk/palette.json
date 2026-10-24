@@ -1,0 +1,11 @@
+{
+  "name": "Dusk",
+  "description": "Twilight indigo with sunset rose, peach, and lavender.",
+  "background": "#1a1726",
+  "text": "#e2dcef",
+  "bold": "#f6f2ff",
+  "cursor": "#ff9e7a",
+  "selection": "#3a3356",
+  "normal": ["#25213a", "#ec7a8f", "#8fd1a8", "#f2c38b", "#8ba7f0", "#c79bf2", "#7fcfd8", "#cbc4dc"],
+  "bright": ["#6b6488", "#f6a0b0", "#b5e3c6", "#f8d9b0", "#b0c3f6", "#dcbcf8", "#a7e2e8", "#f6f2ff"]
+}
